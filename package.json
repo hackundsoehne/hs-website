@@ -16,9 +16,6 @@
     "npm-run-all": "^4.0.0"
   },
   "scripts": {
-    "start": "npm-run-all server",
-    "dev": "npm-run-all --parallel server docs",
-    "server": "http-server ./src -p 8080",
-    "docs": "http-server ./docs -p 4000"
+    "start": "npm-run-all server"
   }
 }
