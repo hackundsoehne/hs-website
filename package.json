@@ -12,10 +12,9 @@
   "homepage": "https://hackundsoehne.de",
   "dependencies": {},
   "devDependencies": {
-    "http-server": "^0.9.0",
-    "npm-run-all": "^4.0.0"
+    "http-server": "^0.9.0"
   },
   "scripts": {
-    "start": "npm-run-all server"
+    "start": "http-server ./src -p 8080"
   }
 }
