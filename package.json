@@ -22,6 +22,6 @@
   "scripts": {
     "start": "npm-run-all --parallel website mail",
     "website": "http-server ./src -p 8080 -d True",
-    "mail": "node ./src/mail/server.js"
+    "mail": "node ./mail/server.js"
   }
 }
