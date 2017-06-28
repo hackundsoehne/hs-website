@@ -4,8 +4,7 @@ function mailSignup() {
 
   // Serialize the form data.
   var formData = $(form).serialize();
-  console.log("sdfs");
-  console.log(formData);
+
   // Submit the form using AJAX.
   $.ajax({
     type: 'POST',
