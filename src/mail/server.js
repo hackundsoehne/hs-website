@@ -37,6 +37,6 @@ app.post('/mailsignup', function (req, res) {
     });
 });
 
-app.listen(3000, function () {
-  console.log('Server listening on port 3000.');
+app.listen(4567, function () {
+  console.log('Server listening on port 4567.');
 });
