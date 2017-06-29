@@ -10,18 +10,11 @@
   "author": "Hack & Söhne",
   "license": "ISC",
   "homepage": "https://hackundsoehne.de",
-  "dependencies": {
-    "body-parser": "^1.17.2",
-    "express": "^4.15.3",
-    "superagent": "^3.5.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "http-server": "^0.9.0",
-    "npm-run-all": "^4.0.2"
   },
   "scripts": {
-    "start": "npm-run-all --parallel website mail",
-    "website": "http-server ./src/website -p 8080 -d False",
-    "mail": "node ./src/mail/server.js"
+    "start": "http-server ./src/website -p 8080 -d False",
   }
 }
