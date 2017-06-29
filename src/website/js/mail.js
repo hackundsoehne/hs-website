@@ -8,7 +8,7 @@ function mailSignup() {
   // Submit the form using AJAX.
   $.ajax({
     type: 'POST',
-    url: 'https://localhost:4567/mailsignup', // TODO: change this
+    url: 'https://hackundsoehne:4567/mailsignup', // TODO: change this
     data: formData
   })
     .done(function (response) {
