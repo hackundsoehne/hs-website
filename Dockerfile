@@ -1,3 +1,3 @@
 FROM node:7-onbuild
 
-EXPOSE 8080 4567
+EXPOSE 8080
