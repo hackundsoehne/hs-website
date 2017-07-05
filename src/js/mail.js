@@ -12,7 +12,11 @@ function mailSignup() {
     data: formData
   })
     .done(function (response) {
-      $('#mce-success-response').removeClass('dn');
+      if (response === 'success') {
+        $('#mce-success-response').removeClass('dn');
+      } else {
+        $('#mce-error-response').removeClass('dn');
+      }
     })
     .fail(function (data) {
       $('#mce-error-response').removeClass('dn');
