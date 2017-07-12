@@ -2172,7 +2172,7 @@ input:focus,
 ----------------------------------------*/
 .service-style-two .single-service {
   margin-bottom: 0;
-  padding: 30px 60px 5px 0;
+  padding: 30px 30px 5px 30px;
   text-align: left;
 }
 .service-style-two .service-header > h3 {
