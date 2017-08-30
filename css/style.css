@@ -973,7 +973,7 @@ a.button.extra-small {
 .portfolio-item-content-team {
   position: relative;
   display: block;
-  height: 420px;
+  /*height: 420px;*/
 }
 .portfolio-width {
   width: 60%;
