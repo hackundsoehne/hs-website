@@ -781,6 +781,11 @@ a.button.extra-small {
   position: relative;
 }
 
+.area-title-white::before,
+.area-title-white::after {
+    background: white none repeat scroll 0 0 !important;
+}
+
 .area-title::before,
 .area-title::after {
   background: #232323 none repeat scroll 0 0;
