@@ -1,3 +1,9 @@
-# Website for Hack & Söhne 
+# Hack & Söhne Organization Website
 
-Run ```npm install``` and ```npm start```.
+Website at: https://hackundsoehne.de
+
+**Important:** master branch is building live. Be aware when pushing.
+
+To build:
+1. ```npm install```
+2. ```npm start```
