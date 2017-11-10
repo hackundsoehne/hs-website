@@ -1142,6 +1142,7 @@ a.button.extra-small {
   width: 45px;
 }
 .btn-medium {
+
   border: 1px solid #e5e5e5;
   color: #232323;
   display: inline-block;
@@ -1152,6 +1153,27 @@ a.button.extra-small {
   padding: 0 30px;
   text-transform: uppercase;
 }
+
+.btn-medium.redhsbutton.center {
+  background: #a63324;
+  color: #fff !important;
+  font-weight: bold;
+  float: none;
+  margin: auto;
+}
+
+.btn-medium.redhsbutton:hover {
+  background: #a63324;
+  color: #fff;
+}
+
+.center {
+  float: none;
+  margin: auto;
+}
+
+
+
 .btn-medium:hover {
   border: 1px solid #555;
   color: #555;
@@ -1160,6 +1182,8 @@ a.button.extra-small {
   margin-bottom: 0;
   padding-bottom: 5px;
 }
+
+
 
 /*---------------------------------------
 	5.3 PORTFOLIO STYLE TWO
