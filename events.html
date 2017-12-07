@@ -103,11 +103,11 @@
                                 <ul class="nav navbar-nav navbar-right hover-style-one">
                                     <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
                                     <li class="hidden"><a class="page-scroll" href="#page-top"></a></li>
-                                    <li><a class="page-scroll" href="index.html#team-id">About</a></li>
+                                    <li><a class="page-scroll" href="index.html#team-id" tkey="about"></a></li>
                                     <li><a class="page-scroll" href="events.html">Events</a></li>
-                                    <li><a class="page-scroll" href="services.html">Services</a></li>
+                                    <li><a class="page-scroll" href="services.html" tkey="service"></a></li>
                                     <li><a class="page-scroll" href="team.html">Team</a></li>
-                                    <li><a class="page-scroll" href="contact.html">Contact</a></li>
+                                    <li><a class="page-scroll" href="contact.html" tkey="contact"></a></li>
                                 </ul>
                             </div>
                             <!-- /.navbar-collapse -->
@@ -145,9 +145,9 @@
                     <div class="portfolio-content">
                         <div class="portfolio-filter-wrap text-center">
                             <ul class="portfolio-filter hover-style-one">
-                                <li class=""><a href="#" data-filter=".cat1" class="current">Upcoming</a></li>
-                                <li class=""><a href="#" data-filter=".cat2" class="current">Past</a></li>
-                                <li class="active"><a href="#" data-filter="*" class="current">All</a></li>
+                                <li class=""><a href="#" data-filter=".cat1" class="current" tkey="events_coming"></a></li>
+                                <li class=""><a href="#" data-filter=".cat2" class="current" tkey="events_past"></a></li>
+                                <li class="active"><a href="#" data-filter="*" class="current" tkey="events_all"></a></li>
                             </ul>
                         </div>
 
@@ -160,7 +160,7 @@
                                     <div class="portfolio-description">
                                         <h4><a href="#">Open Source</a></h4>
                                         <ul class="portfolio-cat">
-                                            <li><a href="#">December 6th, KIT</a></li>
+                                            <li><a href="#" tkey="opensource_date"></a></li>
                                         </ul>
                                         <ul class="portfolio-action-btn">
                                             <li><a class="" data-gall="myGallery" href="samsungopensource.html"><i class="icon-attachment"></i></a></li>
@@ -176,7 +176,7 @@
                                     <div class="portfolio-description">
                                         <h4><a href="#">Blockchain & Machine Learning</a></h4>
                                         <ul class="portfolio-cat">
-                                            <li><a href="#">November 27th, KIT</a></li>
+                                            <li><a href="#" tkey="blockchain_date"></a></li>
                                         </ul>
                                         <ul class="portfolio-action-btn">
                                             <li><a class="" data-gall="myGallery" href="oxygen.html"><i class="icon-attachment"></i></a></li>
@@ -193,7 +193,7 @@
                                     <div class="portfolio-description">
                                         <h4><a href="#">Open Codes Hackathon</a></h4>
                                         <ul class="portfolio-cat">
-                                            <li><a href="#">March 24-25 2018</a></li>
+                                            <li><a href="#" tkey="opencode_date"></a></li>
                                         </ul>
                                         <ul class="portfolio-action-btn">
                                             <li><a class="" data-gall="myGallery" target="_blank" href="https://opencodes.io"><i class="icon-attachment"></i></a></li>
@@ -210,7 +210,7 @@
                                     <div class="portfolio-description">
                                         <h4><a href="#">Hack sucht Söhne</a></h4>
                                         <ul class="portfolio-cat">
-                                            <li><a href="#">November 3rd, KIT</a></li>
+                                            <li><a href="#" tkey="hss_date"></a></li>
                                         </ul>
                                         <ul class="portfolio-action-btn">
                                             <li><a class="" data-gall="myGallery" href="https://www.facebook.com/events/406535403097655/" target="_blank"><i class="icon-attachment"></i></a></li>
@@ -227,7 +227,7 @@
                                     <div class="portfolio-description">
                                         <h4><a href="#">Java 9, ein Über- und Ausblick</a></h4>
                                         <ul class="portfolio-cat">
-                                            <li><a href="#">October 25th - 16H, KIT</a></li>
+                                            <li><a href="#" tkey="java9_date"></a></li>
                                         </ul>
                                         <ul class="portfolio-action-btn">
                                             <li><a class="" data-gall="myGallery" href="java9.html"><i class="icon-attachment"></i></a></li>
@@ -244,7 +244,7 @@
                                     <div class="portfolio-description">
                                         <h4><a href="#">The Python Deep Dive</a></h4>
                                         <ul class="portfolio-cat">
-                                            <li><a href="#">Basic introduction to python</a></li>
+                                            <li><a href="#" tkey="python_date"></a></li>
                                         </ul>
                                         <ul class="portfolio-action-btn">
                                             <li><a class="" data-gall="myGallery" target="_blank" href="https://www.facebook.com/events/526846914313532/"><i class="icon-attachment"></i></a></li>
@@ -261,7 +261,7 @@
                                     <div class="portfolio-description">
                                         <h4><a href="#">The Tooling Deep Dive</a></h4>
                                         <ul class="portfolio-cat">
-                                            <li><a href="#">Introduction to basic coding tools</a></li>
+                                            <li><a href="#" tkey="tooling_date"></a></li>
                                         </ul>
                                         <ul class="portfolio-action-btn">
                                             <li><a class="" data-gall="myGallery" target="_blank" href="https://github.com/hackundsoehne/tooling-deepdive"><i class="icon-attachment"></i></a></li>
@@ -278,7 +278,7 @@
                                     <div class="portfolio-description">
                                         <h4><a href="#">Hack & Söhne Hackathon</a></h4>
                                         <ul class="portfolio-cat">
-                                            <li><a href="#">Our first hackathon</a></li>
+                                            <li><a href="#" tkey="first_hack"></a></li>
                                         </ul>
                                         <ul class="portfolio-action-btn">
                                             <li><a class="" data-gall="myGallery" target="_blank" href="https://www.facebook.com/pg/hackundsoehne/photos/?tab=album&album_id=1774324096218095"><i class="icon-attachment"></i></a></li>
@@ -305,7 +305,7 @@
                                 <h3><a href="index.html">Hack & Söhne</a></h3>
                             </div>
                             <div class="footer-fun-text">
-                                <p>Get involved.</p>
+                                <p tkey="involve"></p>
                             </div>
                             <div class="social-bookmark-2-wrapper">
                                 <ul class="social-bookmark-2">
@@ -320,10 +320,10 @@
                             <div class="footer-menu">
                                 <ul class="footer-menu text-center">
                                     <li><a class="page-scroll" href="index.html">Home</a></li>
-                                    <li><a class="page-scroll" href="index.html#about-id">About</a></li>
+                                    <li><a class="page-scroll" href="index.html#about-id" tkey="about"></a></li>
                                     <li><a href="http://talkit.eu/" target="_blank">TalKIT</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="terms.html">Imprint</a></li>
+                                    <li><a href="contact.html" tkey="contact"></a></li>
+                                    <li><a href="terms.html" tkey="imprint"></a></li>
                                 </ul>
                             </div>
                         </div>
