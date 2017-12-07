@@ -1,3 +1,50 @@
 {
+  "about" : "about",
+  "services" : "services",
+  "contact" : "contact",
+  "hack" : "A subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of software systems to achieve novel and clever outcomes.",
 
+  "opencode_location" : "ZKM, Karlsruhe, Germany",
+  "opencode_date" : "March 24-25 2018",
+  "opencode_title" : "Save the date",
+  "opencode_report" : "Surrounded by impressive works of art and astonished museum visitors, the OpenCode Hackathon will take place in the middle of the renowned ZKM museum!",
+  "opencode_report_2" : "Does that tingle your appetite?",
+  "opencode_button" : "Check it out",
+
+  "we_title" : "Who we are?",
+  "we_report" : "We're a German student-run nonprofit organisation focused all around coding and hacking. We try to bring a bit of silicon valley to the german computer-science and start-up community by disrupting the status quo. We do this by organising hackathons, coding boot camps and other similar events.",
+  "we_report_2" : "Our team consists of undergraduates from a variety of backgrounds: Computer Science, Electrical Engineering and Information Technologies, Economics, Business and more.",
+  "we_button" : "Meet the team",
+
+  "do_title" : "What we do",
+  "do_report" : "We have a passion for technology and work hard to make the latest advancements accessible through hackathons, tech-talks, bootcamps and more.",
+  "do_org_title" : "We organize stuff",
+  "do_org_report" : "We organize Hackathons, Bootcamps and Tech Talks to bring people together, give them a chance to meet new companies, and of course show them a ton of new stuff. From time to time we organize hackathons to find out who is the best hacker in town. ",
+  "do_org_button" : "See upcoming Events",
+  "do_help_title" : "We help out",
+  "do_help_report" : "<b>You're a company and want to reach students?</b><br>No problem! We're a reliable partner, at your side, ready to work together to organize your event. We make sure the event is well run, the room is filled and that nobody goes home with an empty stomach.",
+  "do_help_button" : "Check out our system",
+
+  "events_archive" : "All events",
+  "events_report" : "All events that ever happened!",
+
+  "mail_title" : "Join our mailing list",
+  "mail_report" : "For recruiting information, upcoming events, and ways to get involved.",
+  "mail_button" : "subscribe",
+  "mail_error" : "Oh no! An error occurred while signing you up. Please try again later.",
+  "mail_success" : "Thanks for subscribing! You should be all set.",
+
+  "quest_title" : "Any questions?",
+  "quest_report_ask" : "Ask us ",
+  "quest_report_send" : "· Send us an",
+  "quest_report_mail" : "e-mail ",
+  "quest_report_join" : "· Join our ",
+  "quest_report_join_2" : "",
+
+  "sponsors" : "Partners & Sponsors",
+
+  "involve" : "get involved",
+  "imprint" : "imprint",
+
+  "opensource_date" : "December 6th"
 }

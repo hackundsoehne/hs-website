@@ -1,3 +1,50 @@
 {
+  "about": "Über uns",
+  "services": "Service",
+  "contact": "Kontakt",
+  "hack": "“Tüftler im Kontext einer verspielten selbstbezüglichen Hingabe im Umgang mit Technik und einem besonderen Sinn für Kreativität und Originalität. [...] Ein Hacker ist jemand, der versucht einen Weg zu finden, wie man mit einer Kaffeemaschine Toast zubereiten kann.”",
 
+  "opencode_location": "ZKM, Karlsruhe, Deutschland",
+  "opencode_date" : "24. - 25. März 2018",
+  "opencode_title" : "Sicher dir den Tag!",
+  "opencode_report" : "Umgeben von eindrucksvollen Kunstarbeiten und überraschten Museumsbesuchern, wird der OpenCodes Hackathon mitten im berühmten ZKM Museum stattfinden.",
+  "opencode_report_2" : "Na, wurde deine Neugier geweckt?",
+  "opencode_button" : "Schau rein",
+
+  "we_title" : "Wer wir sind?",
+  "we_report" : "Wir sind eine deutsche, von Studenten geführte Organisation, die fokussiert ist auf alles was mit Coding und Hacking zu tun hat. Wir organisieren dafür Hackathons, Coding-Bootcamps und andere ähnliche Events.",
+  "we_report_2" : "Unser Team besteht aus vielen Studenten aus verschiedenen Fachrichtungen: Informatik, Elektro- und Informationstechnik, Wirtschaft und mehr.",
+  "we_button" : "Triff das Team",
+
+  "do_title" : "Was wir machen",
+  "do_report" : "Wir haben eine Vorliebe für Technologie und arbeiten stark daran die neuesten Entwicklungen durch Hackathons, Tech Talks und Bootcamps zugänglich zu machen.",
+  "do_org_title" : "Wir organisieren",
+  "do_org_report" : "Wir organisieren Hackathons, Bootcamps und Tech Talks um Leute zusammen zu bringen, ihnen eine Chance zu geben Firmen kennen zu lernen und natürlich ihnen eine Menge von neuen Sachen zu zeigen. Von Zeit zu Zeit organisieren wir Hackathons, um den besten Hacker in der Stadt zu finden.",
+  "do_org_button" : "Bevorstehende Events",
+  "do_help_title" : "Wir helfen",
+  "do_help_report" : "<b>Du bist eine Firma und möchtest Studenten erreichen?</b><br>Kein Problem! Wir sind ein zuverlässiger Partner, an ihrer Seite, bereit zusammenzuarbeiten, um Events zu planen. Wir versichern, dass das Event gut läuft, der Raum voll ist und niemand mit einem leeren Magen nach Hause geht.",
+  "do_help_button" : "Zu unserem Service",
+
+  "events_archive" : "Alle Events",
+  "events_report" : "Alle Events die jemals stattgefunden haben!",
+
+  "mail_title" : "Tritt unserer Mailing-Liste bei",
+  "mail_report" : "Ergänzende Informationen, bevorstehende Events und Möglichkeiten sich zu engagieren.",
+  "mail_button" : "anmelden",
+  "mail_error" : "Oh nein! Ein Fehler ist aufgetreten. Bitte versuche es später nochmal.",
+  "mail_success" : "Vielen Dank für die Anmeldung! Wir halten dich auf dem Laufenden.",
+
+  "quest_title" : "Noch Fragen?",
+  "quest_report_ask" : "Schreib uns ",
+  "quest_report_send" : "· Sende uns eine",
+  "quest_report_mail" : "E-Mail ",
+  "quest_report_join" : "· Tritt unserem ",
+  "quest_report_join_2" : " bei",
+
+  "sponsors" : "Partner & Sponsoren",
+
+  "involve" : "engagier dich",
+  "imprint" : "Impressum",
+
+  "opensource_date" : "6. Dezember"
 }
