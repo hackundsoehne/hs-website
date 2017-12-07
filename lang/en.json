@@ -1,6 +1,6 @@
 {
   "about" : "about",
-  "services" : "services",
+  "service" : "services",
   "contact" : "contact",
   "hack" : "A subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of software systems to achieve novel and clever outcomes.",
 
@@ -27,6 +27,9 @@
 
   "events_archive" : "All events",
   "events_report" : "All events that ever happened!",
+  "events_coming" : "Upcoming",
+  "events_past" : "Past",
+  "events_all" : "All",
 
   "mail_title" : "Join our mailing list",
   "mail_report" : "For recruiting information, upcoming events, and ways to get involved.",
@@ -46,5 +49,15 @@
   "involve" : "get involved",
   "imprint" : "imprint",
 
-  "opensource_date" : "December 6th"
+  "opensource_date" : "December 6th",
+
+  "blockchain_date" : "November 27th",
+
+  "hss_date" : "November 3rd",
+
+  "java9_date" : "October 25th",
+
+  "python_date" : "August 5th",
+  "tooling_date" : "June 17th",
+  "first_hack" : "March 18-19"
 }

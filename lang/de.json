@@ -1,6 +1,6 @@
 {
   "about": "Über uns",
-  "services": "Service",
+  "service": "Service",
   "contact": "Kontakt",
   "hack": "“Tüftler im Kontext einer verspielten selbstbezüglichen Hingabe im Umgang mit Technik und einem besonderen Sinn für Kreativität und Originalität. [...] Ein Hacker ist jemand, der versucht einen Weg zu finden, wie man mit einer Kaffeemaschine Toast zubereiten kann.”",
 
@@ -27,6 +27,9 @@
 
   "events_archive" : "Alle Events",
   "events_report" : "Alle Events die jemals stattgefunden haben!",
+  "events_coming" : "Kommend",
+  "events_past" : "Vergangen",
+  "events_all" : "Alle",
 
   "mail_title" : "Tritt unserer Mailing-Liste bei",
   "mail_report" : "Ergänzende Informationen, bevorstehende Events und Möglichkeiten sich zu engagieren.",
@@ -46,5 +49,15 @@
   "involve" : "engagier dich",
   "imprint" : "Impressum",
 
-  "opensource_date" : "6. Dezember"
+  "opensource_date" : "6. Dezember",
+
+  "blockchain_date" : "27. November",
+
+  "hss_date" : "3. November",
+
+  "java9_date" : "25. Oktober",
+
+  "python_date" : "5. August",
+  "tooling_date" : "17. Juni",
+  "first_hack" : "18. - 19. März"
 }
