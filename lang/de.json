@@ -81,6 +81,16 @@
   "tooling_date" : "17. Juni",
   "first_hack" : "18. - 19. März",
 
+  "contact_title" : "Noch Fragen?",
+  "contact_ask" : "Schreib uns",
+  "contact_reach" : " einfach direkt, erreiche uns über ",
+  "contact_convent" : " oder benutze einen der konventionellen Wege unten.",
+  "contact_adr" : "Adresse",
+  "contact_phone" : "Telefon",
+  "contact_gen" : "Allgemeine Info",
+  "contact_business" : "Geschäftliche Anfrage",
+  "contact_mail" : "E-Mail",
+
   "terms_cond" : "Bedingungen & Konditionen",
   "terms_title" : "Nutzungsbedingungen",
   "terms_report" : ""

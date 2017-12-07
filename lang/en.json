@@ -81,6 +81,16 @@
   "tooling_date" : "June 17th",
   "first_hack" : "March 18-19",
 
+  "contact_title" : "Have a question?",
+  "contact_ask" : "Ask us",
+  "contact_reach" : " straight up, reach us through ",
+  "contact_convent" : " or use the conventional ways down below.",
+  "contact_adr" : "Address",
+  "contact_phone" : "Phone",
+  "contact_gen" : "General Info",
+  "contact_business" : "Business Inquiries",
+  "contact_mail" : "email",
+
   "terms_cond" : "Terms & Conditions",
   "terms_title" : "Terms",
   "terms_report" : "<h3>Please Note:</h3>We apologize. The terms are only available in German due to German law being difficult to translate. <br>However, if you have any questions or concerns regarding our terms and conditions, please contact us.<br><br><br><h3>Here we go..</h3>"
