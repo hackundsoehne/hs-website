@@ -49,6 +49,26 @@
   "involve" : "engagier dich",
   "imprint" : "Impressum",
 
+  "service_title" : "Unsere Dienstleistungen",
+  "service_report" : "Wir stehen dir zur Seite um dein Event erfolgreich zu gestalten. Dafür bieten wir folgende Dienste.",
+  "service_marketing_title" : "Marketing",
+  "service_marketing_report" : "Wir stellen sicher, dass genügend Teilnehmer zu deinem Event kommen, so dass sich deine Mühe lohnt. Dafür drucken wir Flyer, Poster und gestalten Onlinewerbung.",
+  "service_location_title" : "Location",
+  "service_location_report" : "Jedes Event braucht eine tolle Location und wir besorgen dir die perfekte Location genau für dein Event!",
+  "service_catering_title" : "Catering",
+  "service_catering_report" : "Deine Teilnehmer sollen Spaß haben und dafür ist es essenziell, dass ihr Hunger gestillt ist und genügend Verpflegung bereit steht. Wir werden dafür sorgen, dass niemand hungrig nach Hause gehen muss.",
+
+  "offer_title" : "Angebot",
+  "offer_student_title" : "Kostenlos für Studenten",
+  "offer_student_report" : "Als Student helfen wir dir umsonst",
+  "offer_talk_report" : "0,5 - 1,5 Stunden",
+  "offer_boot_report" : "4 - 8 Stunden",
+  "offer_food_drinks" : "Essen / Getränke ",
+  "offer_drinks" : "Getränke ",
+  "offer_partic" : "Teilnehmer ",
+  "offer_button" : "Kontaktier uns",
+  "service_contact" : "Bei jeglichen Fragen, Spezialanforderungen und Anmerkungen kontaktiere uns.",
+
   "opensource_date" : "6. Dezember",
 
   "blockchain_date" : "27. November",

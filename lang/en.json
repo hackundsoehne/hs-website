@@ -49,6 +49,26 @@
   "involve" : "get involved",
   "imprint" : "imprint",
 
+  "service_title" : "Our services",
+  "service_report" : "We are at your side, as a reliable partner, making sure your event is a total success by providing you with the following services.",
+  "service_marketing_title" : "We do marketing",
+  "service_marketing_report" : "We make sure that your event is well attended by advertising on social media, printing flyers and posters etc. We make sure you reach those students.",
+  "service_location_title" : "We find a location",
+  "service_location_report" : "Every event needs a good location, and we'll find the perfect one for you. One thing less you have to worry about! Of course you can also pick your own if you prefer that.",
+  "service_catering_title" : "We organize catering",
+  "service_catering_report" : "It's important that participants are enjoying themselves, and that includes providing good catering. We will take care of that to make sure the only thing participants will have to worry about is a stomach too full.",
+
+  "offer_title" : "Offers",
+  "offer_student_title" : "Free for students",
+  "offer_student_report" : "As a student we help you for free",
+  "offer_talk_report" : "0.5 - 1.5 Hours",
+  "offer_boot_report" : "4 - 8 Hours",
+  "offer_food_drinks" : "Food / Drinks ",
+  "offer_drinks" : "Drinks ",
+  "offer_partic" : "Teilnehmer ",
+  "offer_button" : "Get in touch",
+  "service_contact" : "For any questions, concerns, more options or special inquires please contact us.",
+
   "opensource_date" : "December 6th",
 
   "blockchain_date" : "November 27th",
