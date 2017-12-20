@@ -5,7 +5,7 @@
   "main": "HTML/index.html",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/hacksoehne/website.git"
+    "url": "git+ssh://git@github.com:hackundsoehne/hs-website.git"
   },
   "author": "Hack & Söhne",
   "license": "ISC",
