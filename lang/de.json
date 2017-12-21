@@ -26,10 +26,16 @@
   "do_help_button" : "Zu unserem Service",
 
   "events_archive" : "Alle Events",
-  "events_report" : "Alle Events die jemals stattgefunden haben!",
+  "events_report" : "Alle Events, die jemals stattgefunden haben!",
   "events_coming" : "Kommend",
   "events_past" : "Vergangen",
   "events_all" : "Alle",
+  "cooperation" : "In Kooperation mit",
+  "events_about" : "Über",
+  "events_speaker" : "Referent",
+  "events_when" : "Wann?",
+  "events_where" : "Wo?",
+  "events_catering" : "Verpflegung?",
 
   "mail_title" : "Tritt unserer Mailing-Liste bei",
   "mail_report" : "Ergänzende Informationen, bevorstehende Events und Möglichkeiten sich zu engagieren.",
@@ -76,6 +82,11 @@
   "hss_date" : "3. November",
 
   "java9_date" : "25. Oktober",
+  "java9_date_time" : "25. Oktober, 16 Uhr",
+  "java9_location" : "Raum -101, Gebäude 50.34, KIT",
+  "java9_about" : "Java ist nun schon über 20 Jahre alt und mittlerweile aus der IT-Industrie nicht mehr wegzudenken. Der Wirbel um die im September erschienene Version 9 zeigt, dass Java allen Unkenrufen zum trotz immer noch aktuell und relevant ist.</p><p>In diesem Vortrag wird Volker Simonis kurz auf die Geschichte von Java eingehen und den aktuellen Zustand zusammenfassen. Dabei erklärt er, wie Java entwickelt wird und welche Rolle das OpenJDK Projekt und der Java Community Process (JCP) dabei spielen.</p><p>Im zweiten Teil des Vortrages stellt er die Neuerungen von Java 9 vor und präsentiert die aktuellen Trends der Anfang Oktober in San Francisco stattfindenden JavaOne Entwicklerkonferenz.</p><p>Im dritten und letzten Teil wird er schließlich versuchen in die Zukunft von Java zu blicken und einige konkrete Entwicklungen aufzuzeigen.",
+  "java9_fb" : "Hier gehts zum Facebook Event!",
+  "java9_speaker" : "<strong>Volker Simonis</strong> hat an der Universität Tübingen Informatik studiert und arbeitet seit über 10 Jahre bei SAP an Java. Er ist im OpenJDK Projekt als Committer, Reviewer und Project Lead der PowerPC AIX und s390 Portierungen aktiv und vertritt die SAP im Java Community Process.",
 
   "python_date" : "5. August",
   "tooling_date" : "17. Juni",

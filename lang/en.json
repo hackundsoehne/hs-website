@@ -30,6 +30,12 @@
   "events_coming" : "Upcoming",
   "events_past" : "Past",
   "events_all" : "All",
+  "cooperation" : "In cooperation with",
+  "events_about" : "About",
+  "events_speaker" : "Speaker",
+  "events_date" : "When?",
+  "events_location" : "Where?",
+  "events_catering" : "Catering?",
 
   "mail_title" : "Join our mailing list",
   "mail_report" : "For recruiting information, upcoming events, and ways to get involved.",
