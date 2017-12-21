@@ -33,8 +33,8 @@
   "cooperation" : "In cooperation with",
   "events_about" : "About",
   "events_speaker" : "Speaker",
-  "events_date" : "When?",
-  "events_location" : "Where?",
+  "events_when" : "When?",
+  "events_where" : "Where?",
   "events_catering" : "Catering?",
 
   "mail_title" : "Join our mailing list",
@@ -82,6 +82,11 @@
   "hss_date" : "November 3rd",
 
   "java9_date" : "October 25th",
+  "java9_date_time" : "October 25th, 4pm",
+  "java9_location" : "Room -101, Building 50.34, KIT",
+  "java9_about" : "More than 20 years ago Java was introduced to the software development scene. It quickly gained traction and is now ubiquitously used across most modern devices and is now an essential component of many business and consumer applications. The recent hype around its 9th release clearly shows, that despite all the critique it has received, Java is still more relevant than ever and is definitely not a tech-dinosaur.</p><p>In this talk, Volker Simonis will summarize the past and current state of Java.</p><p>Furthermore he will explain the process behind the development of Java and the role that the Java Community Process (JCP) and OpenJDK play in this process.</p><p>Thereafter he will proceed to talk about Java’s future: Java 9’s release, the current developments from the JavaOne conference in San Francisco and aspiring additions to the Java language.",
+  "java9_fb" : "To the Facebook event!",
+  "java9_speaker" : "<strong>Volker Simonis</strong> studied computer science at University Tübingen and is working for SAP on Java for over 10 years. He is Committer, Reviewer on the OpenJDK Project and represents SAP in Java Community Process.",
 
   "python_date" : "August 5th",
   "tooling_date" : "June 17th",
