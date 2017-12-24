@@ -5,7 +5,7 @@
   "hack" : "A subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of software systems to achieve novel and clever outcomes.",
 
   "opencode_location" : "ZKM, Karlsruhe, Germany",
-  "opencode_date" : "March 24-25 2018",
+  "opencode_date" : "March 24th-25th 2018",
   "opencode_title" : "Save the date",
   "opencode_report" : "Surrounded by impressive works of art and astonished museum visitors, the OpenCode Hackathon will take place in the middle of the renowned ZKM museum!",
   "opencode_report_2" : "Does that tingle your appetite?",
@@ -75,10 +75,6 @@
   "offer_button" : "Get in touch",
   "service_contact" : "For any questions, concerns, more options or special inquires please contact us.",
 
-  "opensource_date" : "December 6th",
-
-  "blockchain_date" : "November 27th",
-
   "hss_date" : "November 3rd",
 
   "java9_date" : "October 25th",
@@ -88,9 +84,18 @@
   "java9_fb" : "To the Facebook event!",
   "java9_speaker" : "<strong>Volker Simonis</strong> studied computer science at University Tübingen and is working for SAP on Java for over 10 years. He is Committer, Reviewer on the OpenJDK Project and represents SAP in Java Community Process.",
 
+  "blockchain_date" : "November 27th",
+  "blockchain_date_time" : "November 27th, 6pm - 7pm",
+  "blockchain_location" : "Room 131, Building 50.34, KIT",
+  "blockchain_catering" : "Drinks and live pasta-cooking subsequently!",
+  "blockchain_about" : "The sustainable energy supply is one of the biggest challenges in the 21. century. Millions of distributed, heterogenous energy systems have to agree in realtime and find a common intelligent strategie, to hold production and consumption in balance every time.</p><p>In this talk <strong>Florian Kaiser</strong> will talk about the technical sight about the different questioning on the way of the energy transition. How transaction verification with blockchain or generative and consumption prognosis with machine learning are essential components of transformation.",
+  "blockchain_speaker" : "After research about energy supply of future at Fraunhofer ISE in Freiburg, KIT alumnus <strong>Florian Kaiser</strong> incorporate the company Oxygen Technologies with a small Team in 2016. With now 14 memebers they develop innovative solutions for decentralised energy supply.",
+
+  "opensource_date" : "December 6th",
+
   "python_date" : "August 5th",
   "tooling_date" : "June 17th",
-  "first_hack" : "March 18-19",
+  "first_hack" : "March 18th-19th",
 
   "contact_title" : "Have a question?",
   "contact_ask" : "Ask us",

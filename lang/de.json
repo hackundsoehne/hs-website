@@ -75,10 +75,6 @@
   "offer_button" : "Kontaktier uns",
   "service_contact" : "Bei jeglichen Fragen, Spezialanforderungen und Anmerkungen kontaktiere uns.",
 
-  "opensource_date" : "6. Dezember",
-
-  "blockchain_date" : "27. November",
-
   "hss_date" : "3. November",
 
   "java9_date" : "25. Oktober",
@@ -87,6 +83,15 @@
   "java9_about" : "Java ist nun schon über 20 Jahre alt und mittlerweile aus der IT-Industrie nicht mehr wegzudenken. Der Wirbel um die im September erschienene Version 9 zeigt, dass Java allen Unkenrufen zum trotz immer noch aktuell und relevant ist.</p><p>In diesem Vortrag wird Volker Simonis kurz auf die Geschichte von Java eingehen und den aktuellen Zustand zusammenfassen. Dabei erklärt er, wie Java entwickelt wird und welche Rolle das OpenJDK Projekt und der Java Community Process (JCP) dabei spielen.</p><p>Im zweiten Teil des Vortrages stellt er die Neuerungen von Java 9 vor und präsentiert die aktuellen Trends der Anfang Oktober in San Francisco stattfindenden JavaOne Entwicklerkonferenz.</p><p>Im dritten und letzten Teil wird er schließlich versuchen in die Zukunft von Java zu blicken und einige konkrete Entwicklungen aufzuzeigen.",
   "java9_fb" : "Hier gehts zum Facebook Event!",
   "java9_speaker" : "<strong>Volker Simonis</strong> hat an der Universität Tübingen Informatik studiert und arbeitet seit über 10 Jahre bei SAP an Java. Er ist im OpenJDK Projekt als Committer, Reviewer und Project Lead der PowerPC AIX und s390 Portierungen aktiv und vertritt die SAP im Java Community Process.",
+
+  "blockchain_date" : "27. November",
+  "blockchain_date_time" : "27. November, 18 - 19 Uhr",
+  "blockchain_location" : "Raum 131, Gebäude 50.34, KIT",
+  "blockchain_catering" : "Getränke und live Pasta-cooking im Anschluss!",
+  "blockchain_about" : "Zurecht wird die nachhaltige Energieversorgung als eine der größten Herausforderungen des 21. Jahrhunderts bezeichnet: Millionen verteilter, heterogener Energieanlagen müssen sich in Echtzeit abstimmen und gemeinsam eine möglichst intelligente Strategie finden, um zu jeder Zeit Erzeugung und Verbrauch in Balance zu halten.</p><p>In diesem Vortrag wird Florian Kaiser die verschiedenen Fragestellungen auf dem Weg der Energiewende aus (IT-)technischer Sicht beleuchten und vorstellen, inwiefern Ansätze wie Blockchain zur Transaktionsverifikation oder Machine Learning zur Erzeugungs- und Verbrauchsprognose essenzielle Bestandteile der Transformation des Energiesektors sind.",
+  "blockchain_speaker" : "Nach Forschungen zum Thema Energieversorgung der Zukunft am Frauenhofer ISE in Freiburg gründete der KIT Alumnus <strong>Florian Kaiser</strong> mit einem kleinen Team im Jahr 2016 die Firma Oxygen Technologies, die heute mit 14 Mitarbeitern innovative Lösungen für die dezentralisierte Energieversorgung entwickelt.",
+
+  "opensource_date" : "6. Dezember",
 
   "python_date" : "5. August",
   "tooling_date" : "17. Juni",
