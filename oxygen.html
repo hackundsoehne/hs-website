@@ -103,11 +103,11 @@
                                 <ul class="nav navbar-nav navbar-right hover-style-one">
                                     <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
                                     <li class="hidden"><a class="page-scroll" href="#page-top"></a></li>
-                                    <li><a class="page-scroll" href="index.html#team-id">About</a></li>
+                                    <li><a class="page-scroll" href="index.html#team-id" tkey="about"></a></li>
                                     <li><a class="page-scroll" href="events.html">Events</a></li>
-                                    <li><a class="page-scroll" href="services.html">Services</a></li>
+                                    <li><a class="page-scroll" href="services.html" tkey="service"></a></li>
                                     <li><a class="page-scroll" href="team.html">Team</a></li>
-                                    <li><a class="page-scroll" href="contact.html">Contact</a></li>
+                                    <li><a class="page-scroll" href="contact.html" tkey="contact"></a></li>
                                 </ul>
                             </div>
                             <!-- /.navbar-collapse -->
@@ -136,7 +136,7 @@
                     </div>
                 </div>
             </div>
-            <div class="breadcrumb-area breadcrumb-style-3 pb-70 gray-bg">
+            <!-- <div class="breadcrumb-area breadcrumb-style-3 pb-70 gray-bg">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
@@ -146,28 +146,26 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
+
             <!-- Breadcrumb area end -->
 
             <div id="team-id" class="adam-standard-row gray-bg about-us-img">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-sm-8 pt-50 pb-20 pr-50">
-                            <h4>About</h4>
+                            <h4 tkey="events_about"></h4>
                             <div class="tl f3">
-                                <p>Zurecht wird die nachhaltige Energieversorgung als eine der größten Herausforderungen des 21. Jahrhunderts bezeichnet: Millionen verteilter, heterogener Energieanlagen müssen sich in Echtzeit abstimmen und gemeinsam eine möglichst intelligente Strategie finden, um zu jeder Zeit Erzeugung und Verbrauch in Balance zu halten.</p>
-
-                                <p>In diesem Vortrag wird Florian Kaiser die verschiedenen Fragestellungen auf dem Weg der Energiewende aus (IT-)technischer Sicht beleuchten und vorstellen, inwiefern Ansätze wie Blockchain zur Transaktionsverifikation oder Machine Learning zur Erzeugungs- und Verbrauchsprognose essenzielle Bestandteile der Transformation des Energiesektors sind.</p>
-                            </div>
+                                <p tkey="blockchain_about"></p></div>
                         </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="block-text-skill title-bottom-line-one pt-50 pb-20">
-                                <h4 class="">Wann?</h4>
-                                <p class="f2">27. November, 18 Uhr - 19 Uhr</p>
-                                <h4 class="pt4">Wo?</h4>
-                                <p class="f2">Raum 131, Gebäude 50.34, KIT</p>
-                                <h4 class="pt4">Verpflegung?</h4>
-                                <p class="f2">Getränke, und live Pasta cooking im Anschluss!</p>
+                                <h4 class="" tkey="events_when"></h4>
+                                <p class="f2" tkey="blockchain_date_time"></p>
+                                <h4 class="pt4" tkey="events_where"></h4>
+                                <p class="f2" tkey="blockchain_location"></p>
+                                <h4 class="pt4" tkey="events_catering"></h4>
+                                <p class="f2" tkey="blockchain_catering"></p>
                             </div>
                         </div>
                     </div>
@@ -179,15 +177,14 @@
                         </div>
                         <div class="col-md-8 col-sm-4 ">
                             <div class="block-text-skill title-bottom-line-one pt-30 pb-20">
-                                <h4 class="pt4">Speaker</h4>
+                                <h4 class="pt4" tkey="events_speaker"></h4>
                                 <div class=" f3 pt2">
-                                    <p>Nach Forschungen zum Thema Energieversorgung der Zukunft am Frauenhofer ISE in Freiburg gründete der KIT Alumnus <strong>Florian Kaiser</strong> mit einem kleinen Team im Jahr 2016 die Firma Oxygen Technologies, die heute mit 14 Mitarbeitern innovative Lösungen für die dezentralisierte Energieversorgung entwickelt.</p>
-                                </div>
+                                    <p tkey="blockchain_speaker"></p></div>
                             </div>
                         </div>
                     </div>
                     <div class="center tc pb6">
-                        <h4 class="pb4">In kooperation mit</h4>
+                        <h4 class="pb4" tkey="cooperation"></h4>
                         <div class="block-image">
                             <a href="https://oxygen-technologies.de/" target="_blank"><img src="img/oxygen.png" alt="" width="400px"></a>
                         </div>
@@ -199,8 +196,8 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="area-heading area-heading-style-two text-center">
-                                <h2 class="area-title">Join our mailing list</h2>
-                                <p>For recruiting information, upcoming events, and ways to get involved.</p>
+                                <h2 class="area-title" tkey="mail_title"></h2>
+                                <p tkey="mail_report"></p>
                             </div>
                         </div>
                     </div>
@@ -225,8 +222,8 @@
                                     </br>
 
                                     <div id="mce-responses" class="clear">
-                                        <div class="response error pb4 dn" id="mce-error-response">Oh no! An error occurred while singing you up. Please try again later.</div>
-                                        <div class="response success pb4 dn" id="mce-success-response">Thanks for subscribing! You should be all set.</div>
+                                        <div class="response error pb4 dn" id="mce-error-response" tkey="mail_error"></div>
+                                        <div class="response success pb4 dn" id="mce-success-response" tkey="mail_success"></div>
                                     </div>
                                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input
@@ -235,7 +232,7 @@
 
                                     <div class="clear">
                                         <button type="submit" value="Subscribe" name="subscribe"
-                                                id="mc-embedded-subscribe" class="button">subscribe
+                                                id="mc-embedded-subscribe" class="button" tkey="mail_button">
                                         </button>
                                     </div>
                                 </form>
@@ -255,7 +252,7 @@
                                     <h3><a href="index.html">Hack & Söhne</a></h3>
                                 </div>
                                 <div class="footer-fun-text">
-                                    <p>Get involved.</p>
+                                    <p tkey="involve"></p>
                                 </div>
                                 <div class="social-bookmark-2-wrapper">
                                     <ul class="social-bookmark-2">
@@ -270,10 +267,10 @@
                                 <div class="footer-menu">
                                     <ul class="footer-menu text-center">
                                         <li><a class="page-scroll" href="index.html">Home</a></li>
-                                        <li><a class="page-scroll" href="index.html#about-id">About</a></li>
+                                        <li><a class="page-scroll" href="index.html#about-id" tkey="about"></a></li>
                                         <li><a href="http://talkit.eu/" target="_blank">TalKIT</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="terms.html">Imprint</a></li>
+                                        <li><a href="contact.html" tkey="contact"></a></li>
+                                        <li><a href="terms.html" tkey="imprint"></a></li>
                                     </ul>
                                 </div>
                             </div>
