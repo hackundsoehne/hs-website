@@ -92,10 +92,15 @@
   "blockchain_speaker" : "After research about energy supply of future at Fraunhofer ISE in Freiburg, KIT alumnus <strong>Florian Kaiser</strong> incorporate the company Oxygen Technologies with a small Team in 2016. With now 14 memebers they develop innovative solutions for decentralised energy supply.",
 
   "opensource_date" : "December 6th",
+  "opensource_date_time" : "December 6th, 7pm",
+  "opensource_location" : "Room -101, Building 50.34, KIT",
+  "opensource_catering" : "Free drinks and pretzels",
+  "opensource_about" : "Free and open source software has a huge impact on today‘s software landscape. Being part of the devices and services we use. Every sector of the industry and academia does benefit from it some way or another. We will talk about its history and culture to understand the communities which formed themselves around them, its march to success and some of the reasons for it. Open Source is not only a way for companies to save money, it is also a tool for you during your studies and research. It can help you to gain further insight into software development and design, it can be a practical counterpart during your studies. Participation in an Open Source projects is also a good way gain development experience and even public exposure of your work. Both are big factors in scoring your dream job.",
+  "opensource_speaker" : "<strong>Stefan Schmidt</strong> is a FOSS contributor for over a decade by now. During this time he worked on different projects and different layers of the Linux ecosystem. From bootloader and Kernel over build systems for embedded to user interfaces. He was serving as technical steering committee member of OpenEmbedded during the merge with the Yocto project, helped porting a 2.6 kernel to some early smartphones and is the release manager of the Enlightenment Foundation Libraries as well as co-maintainer of the Linux IEEE 802.15.4 subsystem. Since several years he is now working in the Samsung Open Source Group Europe.",
 
   "python_date" : "August 5th",
   "tooling_date" : "June 17th",
-  "first_hack" : "March 18th-19th",
+  "first_hack" : "March 18th - 19th",
 
   "contact_title" : "Have a question?",
   "contact_ask" : "Ask us",
