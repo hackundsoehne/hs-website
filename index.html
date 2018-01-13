@@ -57,7 +57,7 @@
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <!-- JQUERY -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-
+    <script src="lang.js"></script>
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90422115-1"></script>
     <script>
@@ -113,11 +113,11 @@
                                 <ul class="nav navbar-nav navbar-right hover-style-one">
                                     <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
                                     <li class="hidden"><a class="page-scroll" href="#page-top"></a></li>
-                                    <li><a class="page-scroll" href="#team-id">About</a></li>
+                                    <li><a class="page-scroll" href="#team-id" tkey="about"></a></li>
                                     <li><a class="page-scroll" href="events.html">Events</a></li>
-                                    <li><a class="page-scroll" href="services.html">Services</a></li>
+                                    <li><a class="page-scroll" href="services.html" tkey="service"></a></li>
                                     <li><a class="page-scroll" href="team.html">Team</a></li>
-                                    <li><a class="page-scroll" href="contact.html">Contact</a></li>
+                                    <li><a class="page-scroll" href="contact.html" tkey="contact"></a></li>
                                 </ul>
                             </div>
                             <!-- /.navbar-collapse -->
@@ -213,10 +213,7 @@
                                 <h2 class="area-title">Hacking</h2>
                                 <p {color:grey}><i> [hak]</i></p>
                                 <p {color:grey}><i> (verb)</i></p>
-                                <p>
-                                    A subculture of individuals who enjoy the intellectual challenge of creatively
-                                    overcoming limitations of software systems to achieve novel and clever outcomes.
-                                </p>
+                                <p tkey="hack"></p>
                                 <div class="social-bookmark-2-wrapper pt-50">
                                     <ul class="social-bookmark-2">
                                         <li><a href="https://www.facebook.com/hackundsoehne/" target="_blank"><i
@@ -246,15 +243,15 @@
                         <div class="col-md-7 col-sm-8 pt-50 pb-20">
                             <div class="block-image">
                                 <a target="_blank" href="https://opencodes.io"><img src="img/och-logo-white.png" alt="" width="400px"></a>
-                                <h5 class="f1 pt3 white">ZKM, KARLSRUHE, GERMANY<br>MARCH 24-25 2018</h5>
+                                <h5 class="f1 pt3 white" tkey="opencode_location"></h5><h5 class="f1 pt3 white" tkey="opencode_date"></h5>
                             </div>
                         </div>
                         <div class="col-md-5 col-sm-4">
                             <div class="block-text-skill title-bottom-line-one pt-80 pb-20">
-                                <h3 class="area-title area-title-white white">Save the date!</h3>
-                                <p class="white">Surrounded by impressive works of art and astonished museum visitors, the OpenCode Hackathon will take place in the middle of the renowned <a target="_blank" href="http://zkm.de/en/event/2017/10/open-codes">ZKM</a> museum! </p>
-                                <p class="last-para-graph white">Does that tingle your appetite?</p>
-                                <a class="btn-medium white" style="border-color: white" target="_blank" href="https://opencodes.io">Check it out</a>
+                                <h3 class="area-title area-title-white white" tkey="opencode_title"></h3>
+                                <p class="white" tkey="opencode_report"><a target="_blank" href="http://zkm.de/en/event/2017/10/open-codes">ZKM</a></p>
+                                <p class="last-para-graph white" tkey="opencode_report_2"></p>
+                                <a class="btn-medium white" style="border-color: white" target="_blank" href="https://opencodes.io" tkey="opencode_button"></a>
                             </div>
                         </div>
 
@@ -269,17 +266,11 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4">
                             <div class="block-text-skill title-bottom-line-one pt-80 pb-20">
-                                <h3 class="area-title">WHO ARE WE?</h3>
-                                <p>We're a German student-run nonprofit organisation focused all around coding and
-                                    hacking. We try to bring a bit of silicon valley to the german
-                                    computer-science and start-up community by disrupting the status quo. We do this by organising hackathons, coding boot camps
-                                    and other similar events.
-                                </p>
-                                <p class="last-para-graph">Our team consists of undergraduates from a variety of
-                                    backgrounds: Computer Science and Electrical Engineering, Economics, Business, and
-                                    more.</p>
+                                <h3 class="area-title" tkey="we_title"></h3>
+                                <p tkey="we_report"></p>
+                                <p class="last-para-graph" tkey="we_report_2"></p>
                                 <br/>
-                                <a class="btn-medium" href="team.html">Meet the Team</a>
+                                <a class="btn-medium" href="team.html" tkey="we_button"></a>
                             </div>
                         </div>
                         <div class="col-md-8 col-sm-8 pt-50 pb-20">
@@ -297,11 +288,8 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="area-heading area-heading-style-two text-center">
-                                <h2 class="area-title">What we do</h2>
-                                <p>
-                                    We have a passion for technology and work hard to make the latest advancements
-                                    accessible through hackathons, tech-talks, bootcamps and more.
-                                </p>
+                                <h2 class="area-title" tkey="do_title"></h2>
+                                <p tkey="do_report"></p>
                             </div>
                         </div>
                     </div>
@@ -310,15 +298,11 @@
                             <div class="single-service wow fadeIn text-center" data-wow-delay="0.2s" style="padding:">
                                 <div class="service-header text-center">
                                     <i class="icon-gears"></i>
-                                    <h3>We organize Stuff</h3>
+                                    <h3 tkey="do_org_title"></h3>
                                 </div>
-                                <p class="text-center">
-                                    We organize Hackathons, Bootcamps and Tech Talks to bring people together, give them
-                                    a chance to meet new companies, and of course show them a ton of new stuff. From time to
-                                    time we organize hackathons to find out who is the best hacker in town.
-                                </p>
+                                <p class="text-center" tkey="do_org_report"></p>
                                 <div class="service-header text-center pt4">
-                                    <a class="btn-medium page-scroll" href="#event-id">See upcoming events</a>
+                                    <a class="btn-medium page-scroll" href="#event-id" tkey="do_org_button"></a>
                                 </div>
                             </div>
                         </div>
@@ -326,17 +310,13 @@
                             <div class="single-service wow fadeIn text-center" data-wow-delay="0.2s">
                                 <div class="service-header text-center">
                                     <i class="icon-target"></i>
-                                    <h3>We help out</h3>
+                                    <h3 tkey="do_help_title"></h3>
                                 </div>
-                                <p class="text-center">
-                                    <b>You're a company and want to reach students?</b>
-                                    <br>
-                                    No problem! We're a reliable partner, at your side, ready to work together to
-                                    organize your event. We make sure the event is well run, the room is
-                                    filled and that nobody goes home with an empty stomach.
-                                </p>
+                                <p class="text-center" tkey="do_help_report">
+                                    <!--<b>You're a company and want to reach students?</b>
+                                    <br>--></p>
                                 <div class="service-header text-center pt4">
-                                    <a class="btn-medium" href="services.html">Check out our System</a>
+                                    <a class="btn-medium" href="services.html" tkey="do_help_button"></a>
                                 </div>
                             </div>
                         </div>
@@ -416,8 +396,8 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="area-heading area-heading-style-two text-center">
-                                <h2 class="area-title">Join our mailing list</h2>
-                                <p>For recruiting information, upcoming events, and ways to get involved.</p>
+                                <h2 class="area-title" tkey="mail_title"></h2>
+                                <p tkey="mail_report"></p>
                             </div>
                         </div>
                     </div>
@@ -442,8 +422,8 @@
                                     </br>
 
                                     <div id="mce-responses" class="clear">
-                                        <div class="response error pb4 dn" id="mce-error-response">Oh no! An error occurred while singing you up. Please try again later.</div>
-                                        <div class="response success pb4 dn" id="mce-success-response">Thanks for subscribing! Thanks for subscribing! You should be all set.</div>
+                                        <div class="response error pb4 dn" id="mce-error-response" tkey="mail_error"></div>
+                                        <div class="response success pb4 dn" id="mce-success-response" tkey="mail_success"></div>
                                     </div>
                                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input
@@ -452,7 +432,7 @@
 
                                     <div class="clear">
                                         <button type="submit" value="Subscribe" name="subscribe"
-                                                id="mc-embedded-subscribe" class="button">subscribe
+                                                id="mc-embedded-subscribe" class="button" tkey="mail_button">
                                         </button>
                                     </div>
                                 </form>
@@ -480,10 +460,10 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="area-heading area-heading-style-two text-center">
-                                <h2 class="area-title">ANY QUESTIONS?</h2>
-                                <p style="font-size: 1.75rem"><a href="javascript:Smooch.open()">Ask us</a> · Send us an
-                                    <a href="mailto:info@hackundsoehne.de">Email</a> · Join our <a
-                                            href="https://slack.hackundsoehne.de" target="_blank">Slack</a></p>
+                                <h2 class="area-title" tkey="quest_title"></h2>
+                                <p style="font-size: 1.75rem"><a href="javascript:Smooch.open()" tkey="quest_report_ask"></a><i tkey="quest_report_send"></i>
+                                    <a href="mailto:info@hackundsoehne.de" tkey="quest_report_mail"></a><i tkey="quest_report_join"></i><a
+                                            href="https://slack.hackundsoehne.de" target="_blank">Slack</a><i tkey="quest_report_join_2"></i></p>
                             </div>
                         </div>
                     </div>
@@ -536,7 +516,7 @@
                     <div class="col-md-12">
                         <div class="text-center">
                             <div class="footer-logo">
-                                <h3>Partners & Sponsors</h3>
+                                <h3 tkey="sponsors"></h3>
                             </div>
                             <div class="footer-fun-text">
                                 <div class="dib pa4"><img src="img/locosoft.png" style="width: 300px"
@@ -580,7 +560,7 @@
                                     <h3><a href="#">Hack & Söhne</a></h3>
                                 </div>
                                 <div class="footer-fun-text">
-                                    <p>Get involved.</p>
+                                    <p tkey="involve"></p>
                                 </div>
                                 <div class="social-bookmark-2-wrapper">
                                     <ul class="social-bookmark-2">
@@ -601,10 +581,10 @@
                                 <div class="footer-menu">
                                     <ul class="footer-menu text-center">
                                         <li><a class="page-scroll" href="#">Home</a></li>
-                                        <li><a class="page-scroll" href="#about-id">About</a></li>
+                                        <li><a class="page-scroll" href="#about-id" tkey="about"></a></li>
                                         <li><a href="http://talkit.eu/" target="_blank">TalKIT</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="terms.html">Imprint</a></li>
+                                        <li><a href="contact.html" tkey="contact"></a></li>
+                                        <li><a href="terms.html" tkey="imprint"></a></li>
                                     </ul>
                                 </div>
                             </div>
