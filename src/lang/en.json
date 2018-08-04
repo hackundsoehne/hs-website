@@ -7,9 +7,10 @@
   "opencode_location" : "ZKM, Karlsruhe, Germany",
   "opencode_date" : "March 24th-25th, 2018",
   "opencode_title" : "Save the date",
-  "opencode_report" : "Surrounded by impressive works of art and astonished museum visitors, the OpenCode Hackathon will take place in the middle of the renowned ZKM museum!",
-  "opencode_report_2" : "Does that tingle your appetite?",
-  "opencode_button" : "Check it out",
+  "opencode_report" : "Surrounded by impressive works of art and astonished museum visitors, the OpenCode Hackathon took place in the middle of the renowned ZKM museum!",
+  "opencode_report_2" : "Sounds interesting?",
+  "opencode_button" : "Check out the impressions",
+  "opencode_youtube_button" : "Official Aftermovie",
 
   "we_title" : "Who we are?",
   "we_report" : "We're a German student-run nonprofit organisation focused all around coding and hacking. We try to bring a bit of silicon valley to the german computer-science and start-up community by disrupting the status quo. We do this by organising hackathons, coding boot camps and other similar events.",
