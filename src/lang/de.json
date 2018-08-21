@@ -89,11 +89,15 @@
   "java9_fb" : "Hier gehts zum Facebook Event!",
   "java9_speaker" : "<strong>Volker Simonis</strong> hat an der Universität Tübingen Informatik studiert und arbeitet seit über 10 Jahre bei SAP an Java. Er ist im OpenJDK Projekt als Committer, Reviewer und Project Lead der PowerPC AIX und s390 Portierungen aktiv und vertritt die SAP im Java Community Process.",
 
-  "dl_date_time" : "02.Juni 2018, 10 bis 16 Uhr",
+  "dl_date_time" : "02.Juni 2018, 10:00 bis 16:00",
   "dl_location" : "FZI - House of Living Labs",
-  "dl_about" : "Ob Wiwi oder BauIgel, Elektrotechnik oder Maschinenbau, jeder hat schon von dem Hype um Deep Learning mitbekommen. Wir von Hack & Söhne wollen mit diesem eintägigen intensiv Workshop ein bisschen durch das Dickicht der großen Namen und Ankündigungen schneiden um euch näher zu bringen, was wirklich dahinter steckt. Als Hochschulgruppe organisieren wir bei Hack & Söhne TechTalks, Bootcamps und Hackathons mit der Motivation, unsere Begeisterung für Informatik und die Hacker-Kultur mit euch zu teilen. Unsere Ideale sind Offenheit, Austausch und Kollaboration über Fachgrenzen hinweg, also komm vorbei und lass dich inspirieren! ",
-  "dl_fb" : "Hier gehts zum Facebook Event!",
+  "dl_about" : "Ob Wiwi oder BauIgel, Elektrotechnik oder Maschinenbau, jeder hat schon von dem Hype um Deep Learning mitbekommen. Wir von Hack & Söhne wollen mit diesem eintägigen intensiv Workshop ein bisschen durch das Dickicht der großen Namen und Ankündigungen schneiden um euch näher zu bringen, was wirklich dahinter steckt. Als Hochschulgruppe organisieren wir bei Hack & Söhne TechTalks, Bootcamps und Hackathons mit der Motivation, unsere Begeisterung für Informatik und die Hacker-Kultur mit euch zu teilen. Unsere Ideale sind Offenheit, Austausch und Kollaboration über Fachgrenzen hinweg, also komm vorbei und lass dich inspirieren!",
+  "dl_fb" : "Hier geht's zum Facebook Event!",
   "dl_speaker" : "Sandro Braun, Leander Kurscheidt, Maximilian Franz",
+  "dl_youtube_1" : "Hier geht's zum Teil 1 des Workshops auf Youtube",
+  "dl_youtube_2" : "Hier geht's zum Teil 2 des Workshops auf Youtube",
+  "dl_youtube_3" : "Hier geht's zum Teil 3 des Workshops auf Youtube",
+  "dl_flickr" : "Mehr Eindrücke in unserer Gallerie",
 
   "och_date_time" : "23. + 24. März 2018",
   "och_location" : "ZKM - Zentrum für Kunst und Medien",
