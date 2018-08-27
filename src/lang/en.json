@@ -132,6 +132,10 @@
   "dexterity_catering" : "Drinks on donation basis",
   "dexterity_about" : "In this talk, Matthias will present the recently published results of the OpenAI robotics team. They showed that complex and human-like dexterous manipulation can be achieved on a real humanoid hand. They trained their system only on simulated data using large-scale deep reinforcement learning. Still, the system generalizes to the real world, which they achieved through a technique called domain randomization. This talk will not only present their results but will also introduce the fundamental ideas and algorithms behind reinforcement learning as well as domain randomization. A basic understanding of Machine Learning and simple Neural Networks is recommended. ",
   "dexterity_speaker" : "<strong>Matthias Plappert</strong> graduated from the Karslruhe Institute of Technology with a Masters degree in Computer Science and works as a research scientist for OpenAI, where he wrote his master thesis.",
+  "dexterity_blog_post" : "OpenAI blog post",
+  "dexterity_paper" : "Paper",
+  "dexterity_fb" : "See event on Facebook",
+  "dexterity_meetup" : "See karlsruhe.ai event on Meetup",
 
   "python_date" : "August 5th, 2017",
   "tooling_date" : "June 17th, 2017",
