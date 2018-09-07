@@ -134,9 +134,9 @@
   "dexterity_about" : "Der TechTalk ist auf Englisch. </br> In this talk, Matthias will present the recently published results of the OpenAI robotics team. They showed that complex and human-like dexterous manipulation can be achieved on a real humanoid hand. They trained their system only on simulated data using large-scale deep reinforcement learning. Still, the system generalizes to the real world, which they achieved through a technique called domain randomization. This talk will not only present their results but will also introduce the fundamental ideas and algorithms behind reinforcement learning as well as domain randomization. A basic understanding of Machine Learning and simple Neural Networks is recommended. ",
   "dexterity_speaker" : "<strong>Matthias Plappert</strong> graduated from the Karslruhe Institute of Technology with a Masters degree in Computer Science and works as a research scientist for OpenAI, where he wrote his master thesis.",
   "dexterity_blog_post" : "OpenAI blog post",
-  "dexterity_paper" : "Paper",
-  "dexterity_fb" : "Zur Facebook Veranstaltung",
-  "dexterity_meetup" : "Zur Meetup Veranstaltung von Karlsruhe.ai",
+  "dexterity_presentation" : "Slides zur Präsentation",
+  "dexterity_jobs" : "Slides von Marco Huber",
+  "dexterity_feedback" : "Kurzes Feedback!",
 
   "python_date" : "5. August 2017",
   "tooling_date" : "17. Juni 2017",
