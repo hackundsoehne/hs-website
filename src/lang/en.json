@@ -94,7 +94,9 @@
   "java9_fb" : "To the Facebook event!",
   "java9_speaker" : "<strong>Volker Simonis</strong> studied computer science at University Tübingen and is working for SAP on Java for over 10 years. He is Committer, Reviewer on the OpenJDK Project and represents SAP in Java Community Process.",
 
-  "dl_date_time" : "02. June 2019, 10:00 to 16:00",
+
+  "dl_date" : "June 2nd, 2018",
+  "dl_date_time" : "June 2nd, 2018  10am-4pm",
   "dl_location" : "FZI - House of Living Labs",
   "dl_about" : "Doesn't matter whether you are studying economics, civil-, electrical- or mechanical engineering, you probably have heard of the deep learning hype already. We at Hack & Söhne want to unveil what the big buzz-words and names are all about. That is why we are hosting a one-day workshop for you. As a university group we at Hack & Söhne organize techtalks, bootcamps and hackathons to share our passion for technology and the hacking culture with you. We value open mindedness, communication and collaboration across the borders of disciplines. So sign up, come over and get inspired!",
   "dl_fb" : "To the Facebook Event",
