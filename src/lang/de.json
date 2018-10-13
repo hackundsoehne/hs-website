@@ -90,6 +90,16 @@
   "java9_fb" : "Hier gehts zum Facebook Event!",
   "java9_speaker" : "<strong>Volker Simonis</strong> hat an der Universität Tübingen Informatik studiert und arbeitet seit über 10 Jahre bei SAP an Java. Er ist im OpenJDK Projekt als Committer, Reviewer und Project Lead der PowerPC AIX und s390 Portierungen aktiv und vertritt die SAP im Java Community Process.",
 
+  
+  "basement_date" : "13. Oktober, 2018",
+  "basement_date_time" : "13. Otkober 2018, 13:00 - 20:00 Uhr",
+  "basement_location" : "Launchpad - Pioniergarage, Rintheimerstr. 15, 76131 KA",
+  "basement_about" : "Unter dem Motto „Create a better life on Campus” veranstaltet Red Bull gemeinsam mit Hack & Söhne den Red Bull Basement University Hackathon. Wir suchen die besten Ideen, wie man das Leben am Campus verbessern kann! Die Idee ist simpel – ohne große Vorbereitung könnt ihr teilnehmen! Nach einer kurzen Eröffnungsrede durch Lukas Lichter erarbeitet ihr über 3,5 h eine Idee, die eurer Meinung nach das Campusleben verbessert. Die Gewinner erwarten aufregende Preise wie beispielsweise Tickets für das Tech Open Air in Berlin. Während der ganzen Zeit ist für Essen gesorgt und ein Barkeeper versorgt euch mit Getränken.",
+  "basement_fb" : "Hier geht's zum Facebook Event!",
+  "basement_rb" : "Hier gibt's mehr Infos zur Basement University!",
+
+
+
   "dl_date" : "02. Juni 2018",
   "dl_date_time" : "02. Juni 2018, 10:00 bis 16:00",
   "dl_location" : "FZI - House of Living Labs",
