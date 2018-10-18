@@ -80,13 +80,21 @@
   "offer_button" : "Get in touch",
   "service_contact" : "For any questions, concerns, more options or special inquires please contact us.",
 
-  "hss_date" : "November 3rd, 2017",
-  "hss2_date" : "June 8th, 2018",
+  "hss_old2_date" : "November 3rd, 2017",
+  "hss_old_date" : "June 8th, 2018",
 
-  "hss_date_time" : "Friday 08. June 2018 - 19:00 Uhr",
+  "hss_old_date_time" : "Friday 08. June 2018 - 19:00 Uhr",
+  "hss_old_location" : "R131 - Building 50.34",
+  "hss_old_about" : "You want to be a part of Germanys biggest hackathon in 2019? Join us at our recruiting event on friday to learn more about the team, the work and the possibilities at Hack & Söhne.",
+  "hss_old_fb" : "Get in touch through the Facebook page",
+
+  "hss_date" : "October 30th, 2018",
+
+  "hss_date_time" : "Tuesday 30. October 2018 - 19:15 Uhr",
   "hss_location" : "R131 - Building 50.34",
   "hss_about" : "You want to be a part of Germanys biggest hackathon in 2019? Join us at our recruiting event on friday to learn more about the team, the work and the possibilities at Hack & Söhne.",
   "hss_fb" : "Get in touch through the Facebook page",
+
 
   "java9_date" : "October 25th, 2017",
   "java9_date_time" : "October 25th, 2017, 4pm",
