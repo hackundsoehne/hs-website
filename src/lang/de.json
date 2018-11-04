@@ -123,17 +123,22 @@
 
   "hss_old_date_time" : "Freitag 08. Juni 2018 - 19:00 Uhr",
   "hss_old_location" : "R131 - Infobau, Gebäude 50.34",
-  "hss_old_about" : "Du hast Lust auf mehr coole Events wie Bootcamps, TechTalks und Hackathons?Dann werde ein Teil von Hack & Söhne! In einem offenen, kollaborativen Umfeld eröffnen wir neue Möglichkeiten, spannende Events zu organisieren und wichtige Erfahrungen zu sammeln. Egal welche Fachrichtung du studierst, bei Hack & Söhne findet sich immer eine spannende TaskForce, bei der man seine stärken Ausnutzen kann. Von Marketing und Design über Sponsoring und Eventmanagement bis hin zu eigenen Tech-Workshops. Kommt vorbei und lernt mehr über unsere Hochschulgruppe, TaskForces und den Hack-Spirit von Hack & Söhne! Getränke und Pizza werden gestellt.",
+  "hss_old_about" : "Du hast Lust auf mehr coole Events wie Bootcamps, TechTalks und Hackathons? Dann werde ein Teil von Hack & Söhne! In einem offenen, kollaborativen Umfeld eröffnen wir neue Möglichkeiten, spannende Events zu organisieren und wichtige Erfahrungen zu sammeln. Egal welche Fachrichtung du studierst, bei Hack & Söhne findet sich immer eine spannende TaskForce, bei der man seine stärken Ausnutzen kann. Von Marketing und Design über Sponsoring und Eventmanagement bis hin zu eigenen Tech-Workshops. Kommt vorbei und lernt mehr über unsere Hochschulgruppe, TaskForces und den Hack-Spirit von Hack & Söhne! Getränke und Pizza werden gestellt.",
   "hss_old_fb" : "Hier gehts zum Facebook Event!",
 
   "hss_date" : "30. Oktober 2018",
 
   "hss_date_time" : "Dienstag 30. Oktober 2018 - 19:15 Uhr",
   "hss_location" : "R131 - Infobau, Gebäude 50.34",
-  "hss_about" : "Du hast Lust auf mehr coole Events wie Bootcamps, TechTalks und Hackathons?Dann werde ein Teil von Hack & Söhne! In einem offenen, kollaborativen Umfeld eröffnen wir neue Möglichkeiten, spannende Events zu organisieren und wichtige Erfahrungen zu sammeln. Egal welche Fachrichtung du studierst, bei Hack & Söhne findet sich immer eine spannende TaskForce, bei der man seine stärken Ausnutzen kann. Von Marketing und Design über Sponsoring und Eventmanagement bis hin zu eigenen Tech-Workshops. Kommt vorbei und lernt mehr über unsere Hochschulgruppe, TaskForces und den Hack-Spirit von Hack & Söhne! Getränke werden gestellt.",
+  "hss_about" : "Du hast Lust auf mehr coole Events wie Bootcamps, TechTalks und Hackathons? Dann werde ein Teil von Hack & Söhne! In einem offenen, kollaborativen Umfeld eröffnen wir neue Möglichkeiten, spannende Events zu organisieren und wichtige Erfahrungen zu sammeln. Egal welche Fachrichtung du studierst, bei Hack & Söhne findet sich immer eine spannende TaskForce, bei der man seine stärken Ausnutzen kann. Von Marketing und Design über Sponsoring und Eventmanagement bis hin zu eigenen Tech-Workshops. Kommt vorbei und lernt mehr über unsere Hochschulgruppe, TaskForces und den Hack-Spirit von Hack & Söhne! Getränke werden gestellt.",
   "hss_fb" : "Hier gehts zum Facebook Event!",
 
-
+  "jamit_date" : "24. November 2018",
+  "jamit_date_time" : "24. November 2018, 10 bis 17 Uhr",
+  "jamit_app_about" : "Zusammen mit den Developern von JamitLabs wollen wir euch die Basics für iOS App Development mit Swift mitgeben. Bekanntlich lernt es sich in der Praxis am Besten und genau darauf geht dieser Workshop ein. Ein kleinen Theorieblöcken geben wir euch die Werkzeuge und dann habt ihr direkt die Chance diese anzuwenden für euer eigenes kleines Projekt. <br>Wer selbst ein MacBook hat kann daran arbeiten. Für alle anderen gibt es die iMacs von JamitLabs. Gebt deswegen bitte bei der Anmeldung an, welches System ihr nutzt.",
+  "jamit_about" : "JamitLabs - das sind innovative Apps und dynamische Web Anwendungen! Als hochspezialisierte App-Agentur im Herzen von Karlsruhe stehen bei Jamit die Wünsche der Kunden im Mittelpunkt.",
+  "jamit_location" : "JamitLabs - Haid-und-Neu-Str. 18",
+  "jamit_apply" : "Bewirb Dich Jetzt!",
 
   "blockchain_date" : "27. November 2017",
   "blockchain_date_time" : "27. November 2017, 18 - 19 Uhr",
