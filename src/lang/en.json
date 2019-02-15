@@ -119,6 +119,13 @@
   "jamit_apply" : "Sign up period expired.",
   "jamit_subheading" : "Develop your own iOS App with Swift - powered by JamitLabs",
 
+  "hacktival_date" : "May 11th, 2019",
+  "hacktival_date_time" : "May 11th, 2019",
+  "hacktival_about" : "After the successful OpenCodes Hackathon in march 2018 we again want to invite hackers from all over germany and europe to Karlsruhe for germany's largest student run hackathon. Your ideas, your challenge, your experience. With more than 200 other hackers. More infos on hacktival.io",
+  "hacktival_location" : "ZKM Karlsruhe",
+  "hacktival_subheading" : "Join us for germany's largest student run hackathon in Karlsruhe",
+
+
   "dl_date" : "June 2nd, 2018",
   "dl_date_time" : "June 2nd, 2018  10am-4pm",
   "dl_location" : "FZI - House of Living Labs",
