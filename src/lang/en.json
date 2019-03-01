@@ -80,13 +80,21 @@
   "offer_button" : "Get in touch",
   "service_contact" : "For any questions, concerns, more options or special inquires please contact us.",
 
-  "hss_date" : "November 3rd, 2017",
-  "hss2_date" : "June 8th, 2018",
+  "hss_old2_date" : "November 3rd, 2017",
+  "hss_old_date" : "June 8th, 2018",
 
-  "hss_date_time" : "Friday 08. June 2018 - 19:00 Uhr",
+  "hss_old_date_time" : "Friday 08. June 2018 - 19:00 Uhr",
+  "hss_old_location" : "R131 - Building 50.34",
+  "hss_old_about" : "You want to be a part of Germanys biggest hackathon in 2019? Join us at our recruiting event on friday to learn more about the team, the work and the possibilities at Hack & Söhne.",
+  "hss_old_fb" : "Get in touch through the Facebook page",
+
+  "hss_date" : "October 30th, 2018",
+
+  "hss_date_time" : "Tuesday 30. October 2018 - 19:15 Uhr",
   "hss_location" : "R131 - Building 50.34",
   "hss_about" : "You want to be a part of Germanys biggest hackathon in 2019? Join us at our recruiting event on friday to learn more about the team, the work and the possibilities at Hack & Söhne.",
   "hss_fb" : "Get in touch through the Facebook page",
+
 
   "java9_date" : "October 25th, 2017",
   "java9_date_time" : "October 25th, 2017, 4pm",
@@ -94,6 +102,28 @@
   "java9_about" : "More than 20 years ago Java was introduced to the software development scene. It quickly gained traction and is now ubiquitously used across most modern devices and is now an essential component of many business and consumer applications. The recent hype around its 9th release clearly shows, that despite all the critique it has received, Java is still more relevant than ever and is definitely not a tech-dinosaur.</p><p>In this talk, Volker Simonis will summarize the past and current state of Java.</p><p>Furthermore he will explain the process behind the development of Java and the role that the Java Community Process (JCP) and OpenJDK play in this process.</p><p>Thereafter he will proceed to talk about Java’s future: Java 9’s release, the current developments from the JavaOne conference in San Francisco and aspiring additions to the Java language.",
   "java9_fb" : "To the Facebook event!",
   "java9_speaker" : "<strong>Volker Simonis</strong> studied computer science at University Tübingen and is working for SAP on Java for over 10 years. He is Committer, Reviewer on the OpenJDK Project and represents SAP in Java Community Process.",
+
+  "basement_date" : "October 13th, 2018",
+  "basement_date_time" : "October 13th, 2018, 1pm - 8pm",
+  "basement_location" : "Launchpad - Pioniergarage, Rintheimerstr. 15, 76131 KA",
+  "basement_about" : "Together with RedBull we organize the local pitch for the global RedBull Basement University. Check out Facebook to learn more!",
+  "basement_fb" : "To the Facebook event!",
+  "basement_rb" : "Learn more about the Basement University!",
+  "basement_speaker" : "<strong>Volker Simonis</strong> studied computer science at University Tübingen and is working for SAP on Java for over 10 years. He is Committer, Reviewer on the OpenJDK Project and represents SAP in Java Community Process.",
+
+  "jamit_date" : "November 24th, 2018",
+  "jamit_date_time" : "November 24th, 2018, 10am to 5pm",
+  "jamit_app_about" : "Together with the Developers from JamitLabs we want to show you the Basics of iOS App Development with Swift. We all know that we learn best when we actively practice. This is why this workshop is split into small theory blocks followed by hands-on blocks where you can apply what you’ve just learned. <br>The workshop will be held in german. Food and drinks are provided for free during the entire event.",
+  "jamit_about" : "JamitLabs - these are innovative apps and dynamic web applications! As a highly specialized app-agency in the center of Karlsruhe, the demands of their customers are their highest priority. ",
+  "jamit_location" : "JamitLabs - Haid-und-Neu-Str. 18",
+  "jamit_apply" : "Sign up period expired.",
+  "jamit_subheading" : "Develop your own iOS App with Swift - powered by JamitLabs",
+
+  "hacktival_date" : "May 11th, 2019",
+  "hacktival_date_time" : "May 11th, 2019",
+  "hacktival_about" : "After the successful OpenCodes Hackathon in march 2018 we again want to invite hackers from all over germany and europe to Karlsruhe for germany's largest student run hackathon. Your ideas, your challenge, your experience. With more than 200 other hackers. More infos on hacktival.io",
+  "hacktival_location" : "ZKM Karlsruhe",
+  "hacktival_subheading" : "Join us for germany's largest student run hackathon in Karlsruhe",
 
 
   "dl_date" : "June 2nd, 2018",
