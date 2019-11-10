@@ -107,6 +107,7 @@
   "jamitandroid_app_about": "Zusammen mit den Developern von JamitLabs wollen wir euch die Basics für App Development mit Android mitgeben. Bekanntlich lernt es sich in der Praxis am Besten und genau darauf geht dieser Workshop ein. Head of Android Thomas Hofmann gibt euch in kleinen Theorieblöcken die Werkzeuge und in darauf folgenden Praxisblöcken habt ihr direkt die Chance diese für die Entwicklung einer vorgegebenen App zu verwenden. <br> Wir erwarten Grundkenntnisse in Java und objektorientierter Programmierung. Bitte bringt euren eigenen Laptop mit und installiert vor dem Event Android Studio, einen Android-Emulator, und git. In einigen wenigen Fällen können wir auch Rechner stellen.",
   "jamitandroid_about": "JamitLabs - das sind innovative Apps und dynamische Web Anwendungen! Als hochspezialisierte App-Agentur im Herzen von Karlsruhe stehen bei Jamit die Wünsche der Kunden im Mittelpunkt.",
   "jamitandroid_signup": ">> Hier geht's zur Anmeldung!",
+  "jamitandroid_signup_closed": "Anmeldung geschlossen.",
 
   "dl_date": "02. Juni 2018",
   "dl_date_time": "02. Juni 2018, 10:00 bis 16:00",
