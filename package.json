@@ -10,7 +10,6 @@
   "author": "Hack & Söhne",
   "license": "ISC",
   "homepage": "https://hackundsoehne.de",
-  "dependencies": {},
   "devDependencies": {
     "http-server": "^0.9.0"
   },
