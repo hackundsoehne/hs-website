@@ -38,8 +38,12 @@
     <meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#A63324">
 
-    <title>Contact - Hack & Söhne</title>
+    <title>Join us - Hack & Söhne</title>
 
+    <!-- REVOLUTION STYLE SHEETS -->
+    <link rel="stylesheet" type="text/css" href="revolution-slider/revolution/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="revolution-slider/revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="revolution-slider/revolution/css/navigation.css">
     <!-- ALL CSS FILES -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -59,6 +63,7 @@
 
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
 <!--  Item PRELOADER AREA -->
 <div id="preloader-wrapper">
     <div class="preloader-wave-effect"></div>
@@ -110,63 +115,104 @@
         </header>
         <!-- END HEADER AREA -->
         <!-- START MAIN CONTENT AREA -->
-        <div class="icontent">
+        <div class="content gray-bg">
             <!-- Breadcrumb area start -->
-            <div class="breadcrumb-area breadcrumb-style-3 pb-70 gray-bg" style="padding-top: 160px">
+            <div class="breadcrumb-area breadcrumb-style-2" style="padding-bottom: 0">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="breadcrumb-content text-center">
-                                <h2 class="page-cat" tkey="contact"></h2>
+                                <h2 class="page-cat" tkey="join_title"></h2>
                                 <ul class="breadcrumb-list">
                                     <li><a href="index.html">Home</a></li>
-                                    <li tkey="contact"></li>
+                                    <li tkey="join"></li>
                                 </ul>
+                            </div>
+                            <div class="area-heading area-heading-style-two text-center pt5">
+                                <p tkey="join_whatwedo"></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <!-- Breadcrumb area end -->
-            <!-- Contact body start  -->
-            <div class="adam-standard-row ptb-100 contact-area white-bg">
+            <!-- Teach, Inspire, Challenge start -->
+            <div id="about-id" class="adam-standard-row service-area service-style-two">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="area-heading area-heading-style-two text-center">
-                                <h2 class="area-title" tkey="contact_title"></h2>
+                    <div class="row pb6">
+                        <div class="col-md-4">
+                            <div class="single-service wow fadeIn text-center" data-wow-delay="0.2s">
+                                <div class="service-header text-center">
+                                    <i class="icon-presentation"></i>
+                                    <h3 tkey="join_teach_title"></h3>
+                                </div>
+                                <p class="text-center" tkey="join_teach_report"></p>
                             </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-4 col-sm-6">
-                            <div class="single-contact-option text-center">
-                                <i class=" icon-map"></i>
-                                <h4 tkey="contact_adr"></h4>
-                                <p>talKIT – Das Technologieforum e.V.</p>
-                                <p>Postfach 111 462</p>
-                                <p>76064 Karlsruhe, Germany</p>
+                        <div class="col-md-4">
+                            <div class="single-service wow fadeIn text-center" data-wow-delay="0.2s">
+                                <div class="service-header text-center">
+                                    <i class="icon-lightbulb"></i>
+                                    <h3 tkey="join_inspire_title"></h3>
+                                </div>
+                                <p class="text-center" tkey="join_inspire_report"></p>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6">
-                            <div class="single-contact-option text-center">
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6">
-                            <div class="single-contact-option text-center">
-                                <i class="icon-envelope"></i>
-                                <h4 tkey="contact_mail"></h4>
-                                <p><i style="font-size: 1.4rem" tkey="contact_gen"></i><a style="display: inline-block" href="mailto:info@hackundsoehne.de">info@hackundsoehne.de</a></p>
-                                <p><i style="font-size: 1.4rem" tkey="contact_business"></i><a style="display: inline-block" href="mailto:b2b@hackundsoehne.de">b2b@hackundsoehne.de</a></p>
+                        <div class="col-md-4">
+                            <div class="single-service wow fadeIn text-center" data-wow-delay="0.2s">
+                                <div class="service-header text-center">
+                                    <i class="icon-trophy"></i>
+                                    <h3 tkey="join_challenge_title"></h3>
+                                </div>
+                                <p class="text-center" tkey="join_challenge_report"></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Contact body End -->
-            <!-- Google Map Start -->
-            <div id="adam_map"></div>
-            <!-- Google mape end -->
+            <!-- Teach, Inspire, Challenge end -->
+            <!-- Why join? start -->
+            <div style="padding-bottom: 30px">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="breadcrumb-content text-center" style="padding-bottom: 15px">
+                                <h2 class="page-cat" tkey="join_why_title"></h2>
+                            </div>
+                            <img src="img/team.jpg"/>
+                            <div class="pt5 bullet-list">
+                                <p tkey="join_why_intro"></p>
+                                <ul style="text-align: left">
+                                    <li tkey="join_reason_fun"></li>
+                                    <li tkey="join_reason_learn"></li>
+                                    <li tkey="join_reason_networking"></li>
+                                    <li tkey="join_reason_soft_skills"></li>
+                                    <li tkey="join_reason_cv"></li>
+                                </ul>
+                                <p><span tkey="join_still_not_convinced"></span><a href="https://www.youtube.com/watch?v=-a3AVD9Izk0">OpenCodes Hackathon 2018</a>, <a href="https://www.youtube.com/watch?v=ZlABqH9f7mA">Hacktival 2019</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Why join? end -->
+            <!-- I'm interested start -->
+            <div class="breadcrumb-area breadcrumb-style-3" style="padding-bottom: 0">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="breadcrumb-content text-center">
+                                <h2 class="page-cat" tkey="join_interested_title"></h2>
+                            </div>
+                            <div class="pt5" style="padding-bottom: 30px">
+                                <p><span tkey="join_interested_pre_mail"></span><a href="mailto:info@hackundsoehne.de">info@hackundsoehne.de</a><span tkey="join_interested_post_mail_pre_gmeet"></span><a href="https://meet.google.com/qec-mtvr-kow">Google Meet</a><span tkey="join_interested_post_gmeet"></span></p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- I'm interested end -->
 
             <!-- FOOTER AREA START -->
             <footer class="footer-area fixed-footer grey-bg footer-style-two">
@@ -218,14 +264,26 @@
 <!-- Smooch io -->
 <script src="https://cdn.smooch.io/smooch.min.js"></script>
 <script>
-  Smooch.init({
-    appToken: 'bitk39r85itqu1ou0c68e2acg',
-    emailCaptureEnabled: true
-  });
+    Smooch.init({
+        appToken: 'bitk39r85itqu1ou0c68e2acg',
+        emailCaptureEnabled: true
+    });
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCSMScu980vf6Yq_4tvVfkLAvWc3bLWvmw"></script>
-<script src="js/adam.google.map.js"></script>
+
 <script src="js/vendor/jquery-1.12.0.min.js"></script>
+<!-- REVOLUTION JS FILES -->
+<script type="text/javascript" src="revolution-slider/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="revolution-slider/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<!-- SLIDER REVOLUTION 5.0 EXTENSIONS
+(Load Extensions only on Local File Systems ! The following part can be removed on Server for On Demand Loading) -->
+<script type="text/javascript" src="revolution-slider/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="revolution-slider/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+<script type="text/javascript" src="revolution-slider/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" src="revolution-slider/revolution/js/extensions/revolution.extension.video.min.js"></script>
+<script type="text/javascript" src="revolution-slider/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+<script type="text/javascript" src="revolution-slider/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+<script type="text/javascript" src="revolution-slider/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="revolution-slider/slider-active.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.isotope.js"></script>
 <script src="js/slick.min.js"></script>
